@@ -1,0 +1,24 @@
+﻿.wico-annbar-topbar-button {
+    margin-left: 10px;
+    font-size: 80%;
+    padding: 6px 15px;
+    position: relative;
+    top: -2px;
+}
+.wico-annbar-topbar-box {
+    line-height:45px;
+
+}
+.wico-annbar-topbar-text {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    vertical-align:middle;
+}
+.wico-annbar-topbar-closeicon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    vertical-align:middle;
+    cursor: pointer;
+}
+
